@@ -1,5 +1,13 @@
 # tutorials
 
+> Step-by-step tutorials for BlackRoad ecosystem
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Education](https://github.com/BlackRoad-Education)
+
+---
+
+# tutorials
+
 Step-by-step tutorials for BlackRoad ecosystem
 
 **BlackRoad-Education** — Learning — tutoring, courses
